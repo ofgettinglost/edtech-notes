@@ -1,6 +1,6 @@
 # Test Page 
 
 This is a test page. what a test. 
-![flower](_flower.jpeg)
+![flower](flower.jpeg)
 
-<img src="_flower.jpeg" width="800" />
+<img src="flower.jpeg" width="800" />
