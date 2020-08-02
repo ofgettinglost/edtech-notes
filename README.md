@@ -1,6 +1,6 @@
 ## Welcome to Edtech Notes
 
-I have notes here that are helpful for new users to these tools.
+I have notes here that may be helpful to new users. yes.
 
 [Microsoft Teams](msteams.html)
 
